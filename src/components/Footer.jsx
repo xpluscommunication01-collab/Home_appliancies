@@ -55,7 +55,7 @@ const Footer = () => {
                 mb: 1,
               }}
             >
-              Xplus Solutions
+              Xplus Communication
             </Typography>
             <Typography
               variant="body2"
@@ -125,7 +125,7 @@ const Footer = () => {
           sx={{ opacity: 0.8, fontSize: '0.9rem', color:'black', fontWeight: 700, }}
           
         >
-          © {new Date().getFullYear()} Xplus Solutions. All rights reserved. | Licensed & Insured
+          © {new Date().getFullYear()} Xplus Communication. All rights reserved. | Licensed & Insured
         </Typography>
       </Container>
     </Box>

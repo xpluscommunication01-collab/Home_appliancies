@@ -223,7 +223,7 @@ function Landing() {
   }}
 >
   Expert AC, Fridge & Washing Machine Service Center in
-  <span style={{ fontWeight: 800, color: '#ed155d' }}> Coimbatore? </span> 
+  <span style={{ fontWeight: 800, color: '#ed155d' }}> Salem? </span> 
 </Typography>
 
        <Paper
@@ -252,7 +252,7 @@ function Landing() {
     }}
   >
     🧰 Trusted Appliance Repair Experts in
-    <span style={{ color: '#ed155d', fontWeight: 'bold' }}> Coimbatore</span>
+    <span style={{ color: '#ed155d', fontWeight: 'bold' }}> Salem</span>
   </Typography>
 
   <Typography

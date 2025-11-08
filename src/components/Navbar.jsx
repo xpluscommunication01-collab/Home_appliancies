@@ -79,7 +79,7 @@ const Navbar = () => {
                                 },
                             }}
                         >
-                            Xplus Solutions
+                            Xplus Communication
                         </Box>
                     </Typography>
 
