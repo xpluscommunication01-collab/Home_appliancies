@@ -27,6 +27,7 @@ import KitchenIcon from '@mui/icons-material/Kitchen';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
 import MicrowaveIcon from '@mui/icons-material/Microwave';
 import TvIcon from '@mui/icons-material/Tv';
+import PhoneIphoneIcon from "@mui/icons-material/PhoneIphone";
 import AdSlot from '../Adslot';
 
 
@@ -99,30 +100,35 @@ function Landing() {
 
   const services = [
     {
-      icon: <LocalLaundryServiceIcon sx={{ color: '#6A0DAD', fontSize: 50 }} />,
+      icon: <LocalLaundryServiceIcon sx={{ color: 'white', fontSize: 50 }} />,
       title: "Washing Machine Repair",
       description: "Expert repairs for all models and brands today."
     },
     {
-      icon: <KitchenIcon sx={{ color: 'green', fontSize: 50 }} />,
+      icon: <KitchenIcon sx={{ color: 'white', fontSize: 50 }} />,
       title: "Refrigerator Service",
       description: "Fridge maintenance and repair with expertise."
     },
     {
-      icon: <AcUnitIcon sx={{ color: 'red', fontSize: 50 }} />,
+      icon: <AcUnitIcon sx={{ color: 'white', fontSize: 50 }} />,
       title: "AC Maintenance",
       description: "Cooling system installation and expert repairs."
     },
     {
-      icon: <MicrowaveIcon sx={{ color: '#FFA500', fontSize: 50 }} />,
+      icon: <MicrowaveIcon sx={{ color: 'white', fontSize: 50 }} />,
       title: "Oven Repair",
       description: "Repairing your microwave and oven with care."
     },
     {
-      icon: <TvIcon sx={{ color: "#ed155d", fontSize: 50 }} />,
+      icon: <TvIcon sx={{ color: "white", fontSize: 50 }} />,
       title: "Top Brand TV Repair",
       description: "Repairing your TV brands with top-notch care."
     },
+    {
+    icon: <PhoneIphoneIcon sx={{ color: "white", fontSize: 50 }} />,
+    title: "Phone Repair Service",
+    description: "Expert repair services for all smartphone brands."
+  }
   ];
 
 
@@ -264,7 +270,7 @@ function Landing() {
     We specialize in repairing all major home appliances — from your
     <span style={{ fontWeight: 'bold', color: '#ed155d' }}>
       {' '}
-      AC, Washing Machine, Refrigerator, Microwave, and more{' '}
+      Mobile Phone, AC, Washing Machine, Refrigerator, Microwave, and more{' '}
     </span>
     — ensuring quick turnaround times and lasting results.
   </Typography>
