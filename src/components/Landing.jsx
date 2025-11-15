@@ -298,7 +298,7 @@ function Landing() {
 >
   <Button
     component="a"
-    href="tel:+919655458040"
+    href="tel:+919659228040"
     onClick={trackConversion1}
     sx={{
       background: 'linear-gradient(90deg, #ed155d 0%, #6A0DAD 100%)',
@@ -496,7 +496,7 @@ function Landing() {
           </Typography>
   <Button
       component="a"
-      href="tel:+919655458040"
+      href="tel:+919659228040"
       onClick={trackConversion}
       sx={{
         px: { xs: 6, md: 8 },

@@ -84,7 +84,7 @@ const Footer = () => {
             </Typography>
             <Button
               component="a"
-              href="tel:+919655458040"
+              href="tel:+919659228040"
               onClick={trackConversion1}
               startIcon={<PhoneIcon />}
               sx={{
@@ -105,7 +105,7 @@ const Footer = () => {
                 },
               }}
             >
-              +91 9655458040
+              +91 9659228040
             </Button>
           </Grid>
         </Grid>
